@@ -1,28 +1,34 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayesha+Aslam+%F0%9F%91%8B;App+%2F+ML+Developer+%40+Virufy;Stanford+Code+in+Place+%E2%80%94+Section+Leader+%2725+%26+%2726;400%2B+LeetCode+Problems+Solved;Building+at+the+intersection+of+AI+%26+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayesha+Aslam+%F0%9F%91%8B;App+%26+ML+Developer+%40+Virufy;Stanford+Code+in+Place+Section+Leader+%2725+%26+%2726;400%2B+LeetCode+Problems+Solved;AI+%7C+NLP+%7C+Computer+Vision+%7C+Full+Stack)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-aslam)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/ch-ayesha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-ch00/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ayesha00/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayesha.76e@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ch-ayesha)
 
 </div>
 
-## About Me
+<br/>
+
+## 👩‍💻 About Me
 
 CS Graduate from **UET Lahore** (CGPA 3.396/4.0), currently working as an **App/ML Developer at Virufy**, building full-stack AI-powered health screening applications. My work spans machine learning, NLP, computer vision, full-stack development, and competitive programming. I'm also passionate about mentoring and making technical education accessible.
 
-- 🏢 **Currently:** App/ML Developer at Virufy (Dubai, UAE) · React/TypeScript, AWS Lambda, CloudFront, CI/CD
-- 🎓 **Stanford Code in Place 2025 & 2026:** Section Leader, mentoring international students in Python
-- 🧩 **Harvard CS50x Puzzle Day:** Winner 2024 & 2025, Selected 2026
-- 🏆 **iCodeGuru:** Teaching Assistant since 2020, taught 100+ students across DSA, OOP, Python & IELTS
-- ✍️ Technical writer covering ML, data science & OOP fundamentals
-- 📍 Based in Lahore, Pakistan · Open to remote & international opportunities
+| | |
+|:---|:---|
+| 🏢 **Role** | App/ML Developer at Virufy (Dubai, UAE) · React/TypeScript, AWS, Azure, CI/CD |
+| 🎓 **Stanford Code in Place** | Section Leader 2025 & 2026, mentoring international students in Python |
+| 🧩 **Harvard CS50x Puzzle Day** | Winner 2024 & 2025, Selected 2026 |
+| 🏆 **iCodeGuru** | Teaching Assistant since 2020, 100+ students across DSA, OOP, Python & IELTS |
+| ✍️ **Writing** | Technical writer covering ML, data science & OOP fundamentals |
+| 📍 **Location** | Lahore, Pakistan · Open to remote & international opportunities |
 
-## Achievements
+<br/>
+
+## 🏅 Achievements
 
 | Achievement | Details |
 |:---|:---|
@@ -36,7 +42,9 @@ CS Graduate from **UET Lahore** (CGPA 3.396/4.0), currently working as an **App/
 | 🥉 ITEC 2024 | **3rd place** project exhibition at UET Lahore |
 | 💰 Scholarship | Merit-based fully funded scholarship during BS |
 
-## Tech Stack
+<br/>
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -76,7 +84,9 @@ CS Graduate from **UET Lahore** (CGPA 3.396/4.0), currently working as an **App/
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-## GitHub Stats
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -89,26 +99,32 @@ CS Graduate from **UET Lahore** (CGPA 3.396/4.0), currently working as an **App/
 
 </div>
 
-## Competitive Programming
+<br/>
+
+## 🧩 Competitive Programming
 
 | Platform | Details |
 |:---|:---|
-| 🟡 LeetCode | [400+ problems solved](https://leetcode.com/ch-ayesha) |
+| 🟡 LeetCode | [400+ problems solved](https://leetcode.com/u/Ayesha00/) |
 | 🔵 Meta Hacker Cup | Participated 2022 & 2024, solved Round 1 both years |
 | 🔴 Google Code Jam | Farewell Round · Global Rank **#1817**, solved 4/5 |
 | 🟢 CALICO | Global Rank **#167** |
 | ❄️ MITit Winter Contest | Global Rank **#84** |
 | 🎄 Advent of Code 2024 | All 25 days completed |
 
-## Teaching & Volunteering
+<br/>
 
-- 🎓 **Stanford Code in Place:** Section Leader 2025 & 2026, Python fundamentals, 11 international students
-- 🌐 **iCodeGuru** (Silicon Valley, Remote): Teaching Assistant since Oct 2020
+## 🎓 Teaching & Volunteering
+
+- **Stanford Code in Place:** Section Leader 2025 & 2026, Python fundamentals, 11 international students
+- **iCodeGuru** (Silicon Valley, Remote): Teaching Assistant since Oct 2020
   - DSA, OOP with C++, Python, IELTS · 100+ students from underprivileged backgrounds
   - Delivered 8-hour hands-on Python & Pandas session at COMSATS University, Lahore
-- 🌍 **Pak Angels** (Silicon Valley, Remote): Moderator & Teacher since Aug 2024
+- **Pak Angels** (Silicon Valley, Remote): Moderator & Teacher since Aug 2024
   - Python data structures, Streamlit apps, RAG applications, GenAI Hackathon mentorship
-- 🏆 **Mentor:** World Innovation Day Hack 2023, Word Sprint Hackathon 4.0 & 5.0
+- **Mentor:** World Innovation Day Hack 2023, Word Sprint Hackathon 4.0 & 5.0
+
+<br/>
 
 <div align="center">
 
