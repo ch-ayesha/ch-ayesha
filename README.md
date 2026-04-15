@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayesha+Aslam+%F0%9F%91%8B;App+%2F+ML+Developer+%40+Virufy;Stanford+Code+in+Place+%E2%80%94+Section+Leader+%2726;400%2B+LeetCode+Problems+Solved;Building+at+the+intersection+of+AI+%26+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayesha+Aslam+%F0%9F%91%8B;App+%2F+ML+Developer+%40+Virufy;Stanford+Code+in+Place+%E2%80%94+Section+Leader+%2725+%26+%2726;400%2B+LeetCode+Problems+Solved;Building+at+the+intersection+of+AI+%26+Code)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,11 +11,9 @@
 
 </div>
 
----
-
 ## About Me
 
-I'm a **CS Graduate from UET Lahore** (CGPA 3.396/4.0) currently working as an **App/ML Developer at Virufy**, building full-stack AI-powered health screening applications. I thrive at the crossroads of **machine learning, full-stack development, and competitive programming** — and I love teaching what I learn.
+CS Graduate from **UET Lahore** (CGPA 3.396/4.0), currently working as an **App/ML Developer at Virufy**, building full-stack AI-powered health screening applications. My work spans machine learning, full-stack development, NLP, computer vision, and competitive programming. I'm also passionate about mentoring and making technical education accessible.
 
 - 🏢 **Currently:** App/ML Developer @ Virufy (Dubai, UAE) — React/TypeScript, AWS Lambda, CloudFront, CI/CD
 - 🎓 **Stanford Code in Place 2025 & 2026** — Section Leader, mentoring international students in Python
@@ -25,23 +22,19 @@ I'm a **CS Graduate from UET Lahore** (CGPA 3.396/4.0) currently working as an *
 - ✍️ Technical writer covering ML, data science & OOP fundamentals
 - 📍 Based in Lahore, Pakistan · Open to remote & international opportunities
 
----
-
 ## Achievements
 
-| 🏅 Achievement | Details |
+| Achievement | Details |
 |---|---|
-| 🥇 CALICO Coding Competition | **Global Rank #167** — solved 8/17 problems |
-| 🥇 MITit Winter Contest 2025 | **Global Rank #84** — solved 5.5/9 problems |
-| 🎯 Google Code Jam Farewell | **Global Rank #1817** — solved 4/5 problems |
+| 🥇 CALICO Coding Competition | Global Rank **#167** — solved 8/17 problems |
+| 🥇 MITit Winter Contest 2025 | Global Rank **#84** — solved 5.5/9 problems |
+| 🎯 Google Code Jam Farewell | Global Rank **#1817** — solved 4/5 problems |
 | 🎄 Advent of Code 2024 | Completed all **25 days** without missing a single day |
 | 📊 LeetCode | **400+ problems** solved |
 | 🏆 Harvard CS50x Puzzle Day | **Winner 2024 & 2025** · Selected 2026 |
 | 🎓 Stanford Code in Place | **Section Leader 2025 & 2026** — mentored 11 international students |
 | 🥉 ITEC 2024 | **3rd place** project exhibition @ UET Lahore |
 | 💰 Scholarship | Merit-based fully funded scholarship during BS |
-
----
 
 ## Tech Stack
 
@@ -71,53 +64,17 @@ I'm a **CS Graduate from UET Lahore** (CGPA 3.396/4.0) currently working as an *
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**AI / ML Tools**
+**AI / ML & Specialisations**
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-
----
-
-## Featured Projects
-
-### 🤖 Autism Assistive Application — Final Year Project
-> **LSTM · React Native · TensorFlow · Deep Learning**
-
-Mobile app for non-verbal children with autism. Trained a custom LSTM encoder-decoder on 150 categorised cards and 12,400 Urdu sentences to generate full sentences from user-selected inputs. Covered dataset creation, model training, app development, UI design, and deployment.
-
----
-
-### ⛓️ Blockchain E-commerce Website
-> **ReactJS · Solidity · Goerli Testnet · Firebase**
-
-Decentralised e-commerce platform using smart contracts for secure transactions. Used Remix IDE for Solidity contracts and Firebase for real-time database integration.
-
----
-
-### ⚖️ Legal Case Summariser — GenAI Hackathon
-> **FAISS · T5 Model · Sentence Transformers · Streamlit · Python**
-
-Rapid legal research tool combining FAISS keyword retrieval and T5-based summarisation to generate plain-language summaries of case documents for students and professionals.
-
----
-
-### 📚 LearnBuddy — GPT-4 Code & Conquer Hackathon
-> **Python · OpenAI · Hugging Face · NLP · Streamlit**
-
-AI homework feedback MVP that improves children's grammar, spelling, and vocabulary through interactive English exercises.
-
----
-
-### 🏥 COVID-19 Bed Slot Booking — Power to Fly Hackathon
-> **HTML · CSS · Flask · MySQL**
-
-Web app enabling patients to book hospital bed slots during COVID-19. Led front-end, graphics, and documentation for a team of 4.
-
----
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ## GitHub Stats
 
@@ -132,8 +89,6 @@ Web app enabling patients to book hospital bed slots during COVID-19. Led front-
 
 </div>
 
----
-
 ## Competitive Programming
 
 | Platform | Profile |
@@ -145,8 +100,6 @@ Web app enabling patients to book hospital bed slots during COVID-19. Led front-
 | ❄️ MITit Winter Contest | Global Rank **#84** |
 | 🎄 Advent of Code 2024 | All 25 days completed |
 
----
-
 ## Teaching & Volunteering
 
 - 🎓 **Stanford Code in Place** — Section Leader 2025 & 2026 (Python fundamentals, 11 international students)
@@ -156,8 +109,6 @@ Web app enabling patients to book hospital bed slots during COVID-19. Led front-
 - 🌍 **Pak Angels** (Silicon Valley, Remote) — Moderator & Teacher since Aug 2024
   - Python data structures, Streamlit apps, RAG applications, GenAI Hackathon mentorship
 - 🏆 **Mentor** — World Innovation Day Hack 2023, Word Sprint Hackathon 4.0 & 5.0
-
----
 
 <div align="center">
 
