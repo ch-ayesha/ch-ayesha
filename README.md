@@ -13,27 +13,27 @@
 
 ## About Me
 
-CS Graduate from **UET Lahore** (CGPA 3.396/4.0), currently working as an **App/ML Developer at Virufy**, building full-stack AI-powered health screening applications. My work spans machine learning, full-stack development, NLP, computer vision, and competitive programming. I'm also passionate about mentoring and making technical education accessible.
+CS Graduate from **UET Lahore** (CGPA 3.396/4.0), currently working as an **App/ML Developer at Virufy**, building full-stack AI-powered health screening applications. My work spans machine learning, NLP, computer vision, full-stack development, and competitive programming. I'm also passionate about mentoring and making technical education accessible.
 
-- 🏢 **Currently:** App/ML Developer @ Virufy (Dubai, UAE) — React/TypeScript, AWS Lambda, CloudFront, CI/CD
-- 🎓 **Stanford Code in Place 2025 & 2026** — Section Leader, mentoring international students in Python
-- 🧩 **Harvard CS50x Puzzle Day** — Winner 2024 & 2025, Selected 2026
-- 🏆 **iCodeGuru** Teaching Assistant since 2020 — taught 100+ students across DSA, OOP, Python & IELTS
+- 🏢 **Currently:** App/ML Developer at Virufy (Dubai, UAE) · React/TypeScript, AWS Lambda, CloudFront, CI/CD
+- 🎓 **Stanford Code in Place 2025 & 2026:** Section Leader, mentoring international students in Python
+- 🧩 **Harvard CS50x Puzzle Day:** Winner 2024 & 2025, Selected 2026
+- 🏆 **iCodeGuru:** Teaching Assistant since 2020, taught 100+ students across DSA, OOP, Python & IELTS
 - ✍️ Technical writer covering ML, data science & OOP fundamentals
 - 📍 Based in Lahore, Pakistan · Open to remote & international opportunities
 
 ## Achievements
 
 | Achievement | Details |
-|---|---|
-| 🥇 CALICO Coding Competition | Global Rank **#167** — solved 8/17 problems |
-| 🥇 MITit Winter Contest 2025 | Global Rank **#84** — solved 5.5/9 problems |
-| 🎯 Google Code Jam Farewell | Global Rank **#1817** — solved 4/5 problems |
+|:---|:---|
+| 🥇 CALICO Coding Competition | Global Rank **#167**, solved 8/17 problems |
+| 🥇 MITit Winter Contest 2025 | Global Rank **#84**, solved 5.5/9 problems |
+| 🎯 Google Code Jam Farewell | Global Rank **#1817**, solved 4/5 problems |
 | 🎄 Advent of Code 2024 | Completed all **25 days** without missing a single day |
 | 📊 LeetCode | **400+ problems** solved |
 | 🏆 Harvard CS50x Puzzle Day | **Winner 2024 & 2025** · Selected 2026 |
-| 🎓 Stanford Code in Place | **Section Leader 2025 & 2026** — mentored 11 international students |
-| 🥉 ITEC 2024 | **3rd place** project exhibition @ UET Lahore |
+| 🎓 Stanford Code in Place | **Section Leader 2025 & 2026**, mentored 11 international students |
+| 🥉 ITEC 2024 | **3rd place** project exhibition at UET Lahore |
 | 💰 Scholarship | Merit-based fully funded scholarship during BS |
 
 ## Tech Stack
@@ -91,24 +91,24 @@ CS Graduate from **UET Lahore** (CGPA 3.396/4.0), currently working as an **App/
 
 ## Competitive Programming
 
-| Platform | Profile |
-|---|---|
+| Platform | Details |
+|:---|:---|
 | 🟡 LeetCode | [400+ problems solved](https://leetcode.com/ch-ayesha) |
-| 🔵 Meta Hacker Cup | Participated 2022, 2024 — solved Round 1 both years |
-| 🔴 Google Code Jam | Farewell Round — Global Rank **#1817**, solved 4/5 |
+| 🔵 Meta Hacker Cup | Participated 2022 & 2024, solved Round 1 both years |
+| 🔴 Google Code Jam | Farewell Round · Global Rank **#1817**, solved 4/5 |
 | 🟢 CALICO | Global Rank **#167** |
 | ❄️ MITit Winter Contest | Global Rank **#84** |
 | 🎄 Advent of Code 2024 | All 25 days completed |
 
 ## Teaching & Volunteering
 
-- 🎓 **Stanford Code in Place** — Section Leader 2025 & 2026 (Python fundamentals, 11 international students)
-- 🌐 **iCodeGuru** (Silicon Valley, Remote) — Teaching Assistant since Oct 2020
-  - DSA, OOP with C++, Python, IELTS — 100+ students from underprivileged backgrounds
+- 🎓 **Stanford Code in Place:** Section Leader 2025 & 2026, Python fundamentals, 11 international students
+- 🌐 **iCodeGuru** (Silicon Valley, Remote): Teaching Assistant since Oct 2020
+  - DSA, OOP with C++, Python, IELTS · 100+ students from underprivileged backgrounds
   - Delivered 8-hour hands-on Python & Pandas session at COMSATS University, Lahore
-- 🌍 **Pak Angels** (Silicon Valley, Remote) — Moderator & Teacher since Aug 2024
+- 🌍 **Pak Angels** (Silicon Valley, Remote): Moderator & Teacher since Aug 2024
   - Python data structures, Streamlit apps, RAG applications, GenAI Hackathon mentorship
-- 🏆 **Mentor** — World Innovation Day Hack 2023, Word Sprint Hackathon 4.0 & 5.0
+- 🏆 **Mentor:** World Innovation Day Hack 2023, Word Sprint Hackathon 4.0 & 5.0
 
 <div align="center">
 
